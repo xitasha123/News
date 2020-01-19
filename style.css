@@ -1,0 +1,58 @@
+
+#book-list {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#book-form {
+    background-color: orange;
+    padding: 30px 30px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+input:focus {
+    outline: none;
+}
+.label {
+    display: block;
+    margin: 2% 1%;
+}
+.label span {
+    width: 88px;
+    display: inline-block;
+}
+
+input {
+    border-color: #d5931b
+}
+
+.btn {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    padding: 14px 12px;
+    background-color: #aa7b25;
+    color: #fff;
+}
+
+
+.btn:hover {
+    color: black;
+    background-color: #fff;
+}
+.btn-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+
+.new-div {
+    margin-bottom: 20px;
+    background-color:orange;
+    color: #fff;
+}
